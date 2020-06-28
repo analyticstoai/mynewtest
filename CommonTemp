@@ -1,5 +1,6 @@
 def divide(a,b):
-  return max.divide(a,b)
+  return a/b
   
 def expl(a,b):
   return a^b
+
